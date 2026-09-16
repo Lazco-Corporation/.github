@@ -17,6 +17,22 @@ We are Lazco Corporation, based in Taiwan.
 We run cloud hosting (VPS and colocation), build websites, and provide IT consulting.
 We open source the tools we write for our own work.
 
+# Lazco Cloud
+
+**[cloud.lazco.tw](https://cloud.lazco.tw)** is our cloud platform for Taiwan and Asia.
+You manage servers, apps, storage, snapshots, and billing from one control panel.
+You do not need a separate login for each part.
+
+| What you get | Detail |
+|---|---|
+| **Regions** | Taipei, Taichung, and Singapore. Deploy close to your users. |
+| **Servers** | VPS cloud hosting. Start one when you need it. |
+| **One-click apps** | WordPress, databases, AI and data tools, and test environments. |
+| **Storage** | Object storage, with backups and snapshots. |
+| **Pricing** | Tax included. No hidden fees. |
+
+[Get started](https://cloud.lazco.tw) · [Pricing](https://cloud.lazco.tw/pricing) · [Service status](https://status.lazco.tw)
+
 # Projects
 
 ## [VirtFusion](https://github.com/Lazco-Corporation/VirtFusion)
